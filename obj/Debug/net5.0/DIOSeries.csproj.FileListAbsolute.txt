@@ -1,0 +1,16 @@
+C:\Users\Pedro Motta\Documents\CSharpCurso\DIOSeries\bin\Debug\net5.0\DIOSeries.exe
+C:\Users\Pedro Motta\Documents\CSharpCurso\DIOSeries\bin\Debug\net5.0\DIOSeries.deps.json
+C:\Users\Pedro Motta\Documents\CSharpCurso\DIOSeries\bin\Debug\net5.0\DIOSeries.runtimeconfig.json
+C:\Users\Pedro Motta\Documents\CSharpCurso\DIOSeries\bin\Debug\net5.0\DIOSeries.runtimeconfig.dev.json
+C:\Users\Pedro Motta\Documents\CSharpCurso\DIOSeries\bin\Debug\net5.0\DIOSeries.dll
+C:\Users\Pedro Motta\Documents\CSharpCurso\DIOSeries\bin\Debug\net5.0\ref\DIOSeries.dll
+C:\Users\Pedro Motta\Documents\CSharpCurso\DIOSeries\bin\Debug\net5.0\DIOSeries.pdb
+C:\Users\Pedro Motta\Documents\CSharpCurso\DIOSeries\obj\Debug\net5.0\DIOSeries.csproj.AssemblyReference.cache
+C:\Users\Pedro Motta\Documents\CSharpCurso\DIOSeries\obj\Debug\net5.0\DIOSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Motta\Documents\CSharpCurso\DIOSeries\obj\Debug\net5.0\DIOSeries.AssemblyInfoInputs.cache
+C:\Users\Pedro Motta\Documents\CSharpCurso\DIOSeries\obj\Debug\net5.0\DIOSeries.AssemblyInfo.cs
+C:\Users\Pedro Motta\Documents\CSharpCurso\DIOSeries\obj\Debug\net5.0\DIOSeries.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Motta\Documents\CSharpCurso\DIOSeries\obj\Debug\net5.0\DIOSeries.dll
+C:\Users\Pedro Motta\Documents\CSharpCurso\DIOSeries\obj\Debug\net5.0\ref\DIOSeries.dll
+C:\Users\Pedro Motta\Documents\CSharpCurso\DIOSeries\obj\Debug\net5.0\DIOSeries.pdb
+C:\Users\Pedro Motta\Documents\CSharpCurso\DIOSeries\obj\Debug\net5.0\DIOSeries.genruntimeconfig.cache
